@@ -1,7 +1,15 @@
-<p align="center">
-  <a href="#-english-version">🇺🇸 English</a> |
-  <a href="#-versão-em-português">🇧🇷 Português</a>
-</p>
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=João%20Vitor%20Albuquerque&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+
+<div align="center">
+
+<a href="#-english-version">
+  <img src="https://img.shields.io/badge/🇺🇸%20English-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</a>
+<a href="#-versão-em-português">
+  <img src="https://img.shields.io/badge/🇧🇷%20Português-1d4ed8?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
