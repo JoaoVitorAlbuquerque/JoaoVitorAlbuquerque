@@ -1,12 +1,3 @@
-<p align="center">
-  <a href="#-english-version">
-    <img src="https://svgshare.com/i/16nQ.svg" width="160" />
-  </a>
-  <a href="#-versão-em-português">
-    <img src="https://svgshare.com/i/16nR.svg" width="200" />
-  </a>
-</p>
-
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=João%20Vitor%20Albuquerque&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <p align="center">
