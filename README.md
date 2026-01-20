@@ -1,84 +1,87 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=João%20Vitor%20Albuquerque&fontSize=40&fontColor=ffffff&desc=Full%20Stack%20Software%20Engineer%20-%20Transforming%20complex%20business%20rules%20into%20scalable%20and%20secure%20systems.&descAlignY=60&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=João%20Vitor%20Albuquerque&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-<p align="center">
-  <a href="#english-version">🇺🇸 English</a> |
-  <a href="#versão-em-português">🇧🇷 Português</a>
-</p>
+## 👋 Hi, I'm João Vitor Albuquerque | Desenvolvedor Full Stack
+
+🚀 Full Stack Software Engineer focused on building **scalable, secure and well-architected systems**, transforming complex business rules into clean, maintainable and high-performance solutions.
+
+🔎 I work mainly with:
+- APIs with Node.js, TypeScript and NestJS  
+- Clean Architecture, Hexagonal Architecture & DDD  
+- Authentication, Authorization (JWT, RBAC)  
+- Automated tests (Jest, TDD)  
+- Cloud, Docker, CI/CD and AWS  
+- React & React Native frontends  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,ts,nestjs,react,reactnative,postgres,prisma,mongodb,docker,kubernetes,aws,git,linux,jest,githubactions)
+### Backend
+![Node.js](https://skillicons.dev/icons?i=nodejs,ts,nestjs,prisma,postgres,mongodb)
+
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=react,tailwind)
+
+### DevOps & Cloud
+![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions)
+
+### Testing & Tools
+![Tools](https://skillicons.dev/icons?i=jest,git,linux)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorAlbuquerque&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAlbuquerque&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorAlbuquerque&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAlbuquerque&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 ## 📌 Featured Projects
 
-🚚 **XFoods – Real-time Order Management**  
-NestJS, WebSockets, JWT, PostgreSQL, React  
-🔗 https://github.com/JoaoVitorAlbuquerque/xfoods-pg  
+### 🚚 XFoods – Real-time Order Management
+Backend em NestJS com WebSockets, autenticação JWT, arquitetura MVC e testes.
+🔗 https://github.com/JoaoVitorAlbuquerque/xfoods-pg
 
-💰 **Fincheck – Financial Control Platform**  
-Hexagonal Architecture, NestJS, Prisma, Docker, AWS  
-🔗 https://github.com/JoaoVitorAlbuquerque/fincheck  
+### 💰 Fincheck – Financial Control Platform
+Sistema em NestJS com arquitetura hexagonal, PostgreSQL, Prisma, Docker e AWS S3.
+🔗 https://github.com/JoaoVitorAlbuquerque/fincheck
 
-🏭 **MadeTerra ERP – Enterprise Management System**  
-Inventory, Finance, Vehicles, Reports, RBAC (Production System)
-
----
-
-## 🏆 Certifications
-
-![UNINTER](https://img.shields.io/badge/UNINTER-Gestão%20da%20TI-blue?style=for-the-badge)
-![JStack](https://img.shields.io/badge/JStack-RBAC%20Node.js-red?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+### 🏭 Enterprise Management System (MadeTerra)
+Sistema completo de estoque, financeiro, veículos, serviços e relatórios, em produção.
+🔗 (privado / demonstrável em entrevista)
 
 ---
 
-## 🧠 What I Solve
+## 💡 What I Solve
 
-✔️ Complex business rules  
-✔️ Poorly architected systems  
-✔️ Performance bottlenecks  
-✔️ Lack of automated tests  
-✔️ Manual processes  
+✔️ Legacy systems with poor architecture  
+✔️ Performance bottlenecks in APIs  
+✔️ Business rules tightly coupled to infrastructure  
+✔️ Lack of automated testing  
+✔️ Manual processes that should be automated  
 
-✨ Delivering scalable APIs, clean architectures, secure systems and cloud-ready solutions.
+I deliver:
 
----
-
-## 🌍 English Version
-
-Full Stack Software Engineer specialized in building scalable, secure and well-architected systems.  
-Strong experience with Node.js, TypeScript, NestJS, React, PostgreSQL, Docker, AWS, Clean Architecture, CI/CD and automated testing.
-
-Focused on transforming complex business requirements into reliable, maintainable and high-performance software.
+✨ Clean, scalable APIs  
+✨ Secure authentication & authorization  
+✨ Well-structured frontends  
+✨ Cloud-ready infrastructure  
+✨ Code that scales with the business  
 
 ---
 
-## 🇧🇷 Versão em Português
+## 🌍 About Me
 
-Engenheiro de Software Full Stack com foco em construir sistemas escaláveis, seguros e bem arquitetados.  
-Experiência sólida com Node.js, TypeScript, NestJS, React, PostgreSQL, Docker, AWS, Arquitetura Limpa, CI/CD e testes automatizados.
-
-Especialista em transformar regras de negócio complexas em soluções performáticas, organizadas e prontas para escalar.
-
----
-
-## 📈 Contribution Graph
-
-![Snake animation](https://github.com/JoaoVitorAlbuquerque/JoaoVitorAlbuquerque/blob/output/github-contribution-grid-snake.svg)
+🎓 Degree in Information Technology Management  
+💼 Full Stack Developer (Node.js, React, PostgreSQL, Docker, AWS)  
+📈 Experience with enterprise systems, automation and performance optimization  
+🧠 Strong background in software architecture and best practices  
 
 ---
 
